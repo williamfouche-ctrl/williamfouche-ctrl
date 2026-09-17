@@ -1,60 +1,35 @@
-# Hello, I'm William
-<a href="[https://linkedin.com](https://www.linkedin.com/in/william-fouche-b96b0b437/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm William
 
-[Brief Introduction]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-fouche-b96b0b437/)
 
-I am a current highschool student with a profound interest in technology and a dedication to solving complex problems.
+I'm a high school student with a strong interest in technology and cybersecurity. I'm currently building my fundamentals in Linux, networking, and security, and documenting the journey here on GitHub.
 
 ## Objective
 
-My studies in IT has led me to develop a strong passion for cybersecurity. I am eager to enter the field as a Security Operations Center (SOC) Tier 1 Analyst, where I can build a solid foundation in monitoring, incident response, and threat detection. In the long term, I aim to transition into red teaming, using that defensive experience to better understand how attackers operate and how to simulate them effectively.
+My studies in IT have led me to develop a strong passion for cybersecurity. I am eager to enter the field as a Security Operations Center (SOC) Tier 1 Analyst, where I can build a solid foundation in monitoring, incident response, and threat detection. In the long term, I aim to transition into red teaming, using that defensive experience to better understand how attackers operate and how to simulate them effectively.
 
-## Skills
+## Currently Learning
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| N/A          | <a href="https://google.com">N/A</a>|
-| N/A | <a href="https://google.com">N/A</a>|
-| N/A         | N/A|
-| N/A      | N/A|
-|  N/A              | N/A|
-| N/A | N/A|
-
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-NONE
-EG
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+| Area | Resource | Status |
+|:---|:---|:---|
+| Linux | OverTheWire: Bandit | In progress |
+| Networking | Cisco Networking Basics | In progress |
+| Security Fundamentals | CISA Cyber Security 101 | In progress |
+| SOC Skills | TryHackMe SOC Level 1 | Starting soon |
+| Python | Python for Everybody | Planned |
 
 ## Projects
-- N/A
-- N/A
+
+| Project | Description | Link |
+|:---|:---|:---|
+| Learning Log | Weekly notes on what I'm learning | [Repo](https://github.com/yourusername/cybersecurity-journey) |
+| Bandit Writeups | My notes and solutions for OverTheWire Bandit | [Repo](https://github.com/yourusername/cybersecurity-journey/tree/main/notes/linux) |
+
+## Certifications
+
+- CompTIA Security+ — planned
+- CompTIA Network+ — planned
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-fouche-b96b0b437/)
