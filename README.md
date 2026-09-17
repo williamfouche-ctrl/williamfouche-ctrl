@@ -22,8 +22,7 @@ My studies in IT have led me to develop a strong passion for cybersecurity. I am
 
 | Project | Description | Link |
 |:---|:---|:---|
-| Learning Log | Weekly notes on what I'm learning | [Repo](https://github.com/yourusername/cybersecurity-journey) |
-| Bandit Writeups | My notes and solutions for OverTheWire Bandit | [Repo](https://github.com/yourusername/cybersecurity-journey/tree/main/notes/linux) |
+| Cybersecurity Journey | My learning log: weekly notes, write-ups, and scripts | [Repo](https://github.com/williamfouche-ctrl/cybersecurity-journey) |
 
 ## Certifications
 
